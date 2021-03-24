@@ -31,8 +31,11 @@ body {
   color: #394A5E;
 }
 #root a {
-    text-decoration: none;
     font-weight: 600;
     font-size: 25px;
     color: #68B281;
+}
+#root p {
+    text-transform: uppercase;
+    font-weight: 600;
 }
