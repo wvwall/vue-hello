@@ -2,7 +2,8 @@ var app = new Vue({
     el: '#root',
     data: {
       message: 'Introduction',
-      image: "vue.jpg"
+      image: "vue.jpg",
+      name : ""
     }
   })
 
